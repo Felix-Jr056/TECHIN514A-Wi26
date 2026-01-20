@@ -23,8 +23,8 @@ Components used in the display device include:
 
 ## Diagrams
 ### Communication chart
-![](images/Communicate_figure.png)
+![](src/Communicate_figure.png)
 
 
 ### System Block Diagram
-![](images/System_block_diagram.png)
+![](src/System_block_diagram.png)
