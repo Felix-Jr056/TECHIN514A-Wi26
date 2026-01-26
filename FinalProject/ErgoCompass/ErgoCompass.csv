@@ -1,0 +1,6 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","J1","1","Battery","",""
+"2","J2, J3, J4","3","FSR406","",""
+"3","R1, R2, R3","3","10k","",""
+"4","U2","1","XIAO ESP32C3","113991054:MODULE_113991054",""
+"5","U3","1","ADS1115IDGS","Package_SO:TSSOP-10_3x3mm_P0.5mm",""
