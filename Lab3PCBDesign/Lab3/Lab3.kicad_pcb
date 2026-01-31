@@ -2732,11 +2732,27 @@
 	)
 	(segment
 		(start 124 77.1375)
+		(end 119.8625 77.1375)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "bbef7453-0b21-4626-b2aa-1a97a28b4905")
+	)
+	(segment
+		(start 124 77.1375)
 		(end 123.8599 76.9974)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
 		(uuid "d2b8f096-1a91-49af-9c2e-1056208145d2")
+	)
+	(segment
+		(start 119.8625 77.1375)
+		(end 119.7026 77.2974)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "e27bf27a-a2de-4c39-bda2-1f3d8d810131")
 	)
 	(segment
 		(start 124.6375 85.6375)
