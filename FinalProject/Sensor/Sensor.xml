@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/dyx/Documents/TECHIN514A-Wi26/FinalProject/Sensor/Sensor.kicad_sch</source>
+    <date>2026-02-04T23:19:26-0800</date>
+    <tool>Eeschema 9.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Sensor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Battery</value>
+      <footprint>Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77760e9b-2119-4d51-b5bc-f8c47929f439</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02_Socket</value>
+      <footprint>Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39d7481c-01dc-4091-9f30-fa117f939a28</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02_Socket</value>
+      <footprint>Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bde8aca7-8020-4ee5-99b1-58acdb696e76</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02_Socket</value>
+      <footprint>Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ded6e998-28bc-4116-a7c6-a5e24c264503</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6df1084c-f952-45d0-ba15-bb98fa883633</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3aa286e6-2f11-41c2-9f18-16ca240c6c27</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4e3c6ec-5cf8-4b62-9ab0-d123738d4b2d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>footprints:XIAO_ESP32</footprint>
+      <fields>
+        <field name="Footprint">footprints:XIAO_ESP32</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GIX_ESP32" part="XIAO_ESP32" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44bb4dc7-2eb9-49bd-b7ef-0949994de7e6</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ADS1115IDGS</value>
+      <footprint>Package_SO:TSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ads1113.pdf</datasheet>
+      <description>Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10</description>
+      <fields>
+        <field name="Footprint">Package_SO:TSSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ads1113.pdf</field>
+        <field name="Description">Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10</field>
+      </fields>
+      <libsource lib="Analog_ADC" part="ADS1115IDGS" description="Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Sensor.kicad_sch"/>
+      <property name="ki_keywords" value="16 bit 4 channel I2C ADC"/>
+      <property name="ki_fp_filters" value="TSSOP*3x3mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51115a6b-3830-4497-9579-6ee526e01b69</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Analog_ADC" part="ADS1115IDGS">
+      <description>Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ads1113.pdf</docs>
+      <footprints>
+        <fp>TSSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADS1115IDGS</field>
+        <field name="Footprint">Package_SO:TSSOP-10_3x3mm_P0.5mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ads1113.pdf</field>
+        <field name="Description">Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADDR" type="input"/>
+        <pin num="2" name="ALERT/RDY" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="AIN0" type="input"/>
+        <pin num="5" name="AIN1" type="input"/>
+        <pin num="6" name="AIN2" type="input"/>
+        <pin num="7" name="AIN3" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="SDA" type="bidirectional"/>
+        <pin num="10" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Socket">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Socket</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x02, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GIX_ESP32" part="XIAO_ESP32">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO1_A0_D0" type="bidirectional"/>
+        <pin num="2" name="GPIO2_A1_D1" type="bidirectional"/>
+        <pin num="3" name="GPIO3_A2_D2" type="bidirectional"/>
+        <pin num="4" name="GPIO4_A3_D3" type="bidirectional"/>
+        <pin num="5" name="GPIO4_A3_D3_SDA" type="bidirectional"/>
+        <pin num="6" name="GPIO6_A5_D5_SCL" type="bidirectional"/>
+        <pin num="7" name="GPIO43_TX_D6" type="bidirectional"/>
+        <pin num="8" name="GPIO44_D7_RX" type="bidirectional"/>
+        <pin num="9" name="GPIO7_A8_D8_SCK" type="bidirectional"/>
+        <pin num="10" name="GPIO8_A9_D9_CIPO" type="bidirectional"/>
+        <pin num="11" name="GPIO9_A10_D10_COPI" type="bidirectional"/>
+        <pin num="12" name="3V3" type="bidirectional"/>
+        <pin num="13" name="GND" type="bidirectional"/>
+        <pin num="14" name="5V" type="bidirectional"/>
+        <pin num="15" name="+BATT" type="bidirectional"/>
+        <pin num="16" name="-BATT" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Analog_ADC">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Analog_ADC.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="GIX_ESP32">
+      <uri>/Users/dyx/Documents/KiCad/9.0/symbols/GIX_ESP32.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3" class="Default">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="3V3" pintype="bidirectional"/>
+      <node ref="U3" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+BATT" class="Default">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="+BATT" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="-BATT" class="Default">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="-BATT" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/SCL" class="Default">
+      <node ref="U1" pin="6" pinfunction="GPIO6_A5_D5_SCL" pintype="bidirectional"/>
+      <node ref="U3" pin="10" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="5" name="/SDA" class="Default">
+      <node ref="U1" pin="5" pinfunction="GPIO4_A3_D3_SDA" pintype="bidirectional"/>
+      <node ref="U3" pin="9" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="GND" class="Default">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(J2-Pin_1)" class="Default">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="AIN0" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(J3-Pin_1)" class="Default">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="AIN1" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(J4-Pin_1)" class="Default">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="AIN2" pintype="input"/>
+    </net>
+    <net code="10" name="unconnected-(U1-5V-Pad14)" class="Default">
+      <node ref="U1" pin="14" pinfunction="5V" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="unconnected-(U1-GPIO1_A0_D0-Pad1)" class="Default">
+      <node ref="U1" pin="1" pinfunction="GPIO1_A0_D0" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="unconnected-(U1-GPIO2_A1_D1-Pad2)" class="Default">
+      <node ref="U1" pin="2" pinfunction="GPIO2_A1_D1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="unconnected-(U1-GPIO3_A2_D2-Pad3)" class="Default">
+      <node ref="U1" pin="3" pinfunction="GPIO3_A2_D2" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="unconnected-(U1-GPIO4_A3_D3-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="GPIO4_A3_D3" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="unconnected-(U1-GPIO7_A8_D8_SCK-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="GPIO7_A8_D8_SCK" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="unconnected-(U1-GPIO8_A9_D9_CIPO-Pad10)" class="Default">
+      <node ref="U1" pin="10" pinfunction="GPIO8_A9_D9_CIPO" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="unconnected-(U1-GPIO9_A10_D10_COPI-Pad11)" class="Default">
+      <node ref="U1" pin="11" pinfunction="GPIO9_A10_D10_COPI" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="unconnected-(U1-GPIO43_TX_D6-Pad7)" class="Default">
+      <node ref="U1" pin="7" pinfunction="GPIO43_TX_D6" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="unconnected-(U1-GPIO44_D7_RX-Pad8)" class="Default">
+      <node ref="U1" pin="8" pinfunction="GPIO44_D7_RX" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="unconnected-(U3-ADDR-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="ADDR" pintype="input"/>
+    </net>
+    <net code="21" name="unconnected-(U3-AIN3-Pad7)" class="Default">
+      <node ref="U3" pin="7" pinfunction="AIN3" pintype="input"/>
+    </net>
+    <net code="22" name="unconnected-(U3-ALERT/RDY-Pad2)" class="Default">
+      <node ref="U3" pin="2" pinfunction="ALERT/RDY" pintype="output"/>
+    </net>
+  </nets>
+</export>

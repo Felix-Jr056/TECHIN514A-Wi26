@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "e2176fcb-63e7-4125-a762-1d526a7747a1")
 	(paper "A4")
+	(title_block
+		(title "Sensor sch")
+		(date "2026-02-01")
+		(rev "v2")
+	)
 	(lib_symbols
 		(symbol "Analog_ADC:ADS1115IDGS"
 			(exclude_from_sim no)

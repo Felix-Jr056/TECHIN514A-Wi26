@@ -1,0 +1,6 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","D1, D2, D3","3","1655","footprints:LED_1655",""
+"2","J1","1","Conn_01x02_Pin","Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical",""
+"3","J5","1","Battery","Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical",""
+"4","M1","1","Stepper_Motor_bipolar","footprints:x27_stepper",""
+"5","U2","1","~","footprints:XIAO_ESP32",""

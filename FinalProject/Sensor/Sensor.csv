@@ -1,0 +1,6 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","J1","1","Battery","Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical",""
+"2","J2, J3, J4","3","Conn_01x02_Socket","Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical",""
+"3","R1, R2, R3","3","10k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
+"4","U1","1","~","footprints:XIAO_ESP32",""
+"5","U3","1","ADS1115IDGS","Package_SO:TSSOP-10_3x3mm_P0.5mm",""
